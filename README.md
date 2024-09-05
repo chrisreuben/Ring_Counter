@@ -1,5 +1,4 @@
 # Ring_Counter
-//The code implemented here was to be used for an Arduino Board//
 module counter (clk, led);	
 		// declare inputs
 		// pins are in pin planner/DE0-Nano User Guide
